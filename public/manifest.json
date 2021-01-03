@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "HausKontrol",
+  "name": "ReactApp to control house appliances (esp8266.hauskontrol5)",
   "icons": [
     {
       "src": "favicon.ico",
@@ -11,6 +11,11 @@
       "src": "haus128.png",
       "type": "image/png",
       "sizes": "128x128"
+    },
+    {
+      "src": "haus256.png",
+      "type": "image/png",
+      "sizes": "256x256"
     },
     {
       "src": "haus512.png",

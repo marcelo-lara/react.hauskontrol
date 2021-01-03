@@ -1,5 +1,5 @@
 import React from 'react';
-import { SwitchButton } from "../button/button";
+import { SwitchButton } from "../switchbutton/switchbutton";
 
 export class App extends React.Component {
   render() {
