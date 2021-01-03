@@ -6,7 +6,7 @@ export class App extends React.Component {
     return (
       <div>
         <section>
-            <h2>Office</h2>
+            <h2>Büro</h2>
             <div>
                 <SwitchButton name="Hauptlicht" isOn={true}/>
             </div>
@@ -19,7 +19,7 @@ export class App extends React.Component {
             </div>
         </section>
         <section>
-            <h2>Living</h2>
+            <h2>Wohnzimmer</h2>
             <div>
                 <SwitchButton name="Hauptlicht" isOn={true}/>
                 <SwitchButton name="dichroitisches Licht" isOn={true}/>
